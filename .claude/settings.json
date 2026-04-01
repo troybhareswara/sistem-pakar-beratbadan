@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php /Users/troybhareswara/Desktop/sistem-pakar-beratbadan/artisan route:list)",
+      "Bash(pkill -f \"php artisan serve\")",
+      "Bash(npm run:*)",
+      "WebFetch(domain:minimax-algeng-chat-tts-us.oss-us-east-1.aliyuncs.com)"
+    ]
+  }
+}
